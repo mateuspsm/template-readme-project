@@ -34,7 +34,7 @@ make run
 make clean
 ```
 
-### Observação
+## Observação
 
 Alguma observação a ser feita sobre o projeto, como pro exemplo:
 
@@ -53,7 +53,7 @@ Alguma observação a ser feita sobre o projeto, como pro exemplo:
 
 ## Referencias
 
-Referencias que queira destacar ao desenvolver o projeto.
+Referencias que queira destacar ao desenvolver o projeto
 
 ## Licença
 
