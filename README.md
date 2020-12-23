@@ -4,7 +4,7 @@
 
 Ex: versão 1.0
 
-## Sobre o projeto (nome do projeto)
+## Sobre o projeto
 
 Descrição sobre o que é o projeto, funções, tecnicas de programação, etc.
 
