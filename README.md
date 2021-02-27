@@ -8,7 +8,7 @@ Ex: versão 1.0
 
 Descrição sobre o que é o projeto, funções, tecnicas de programação, etc.
 
-## Caso de Uso do projeto
+## Casos de Uso do projeto
 
 ![use case](url da imagem)
 
@@ -34,7 +34,7 @@ make run
 make clean
 ```
 
-## Observação
+## Observações
 
 Alguma observação a ser feita sobre o projeto, como pro exemplo:
 
@@ -49,14 +49,42 @@ Alguma observação a ser feita sobre o projeto, como pro exemplo:
 
 ## Autor
 
-* **Mateus Perera** - *Student* - [Linkedin](https://www.linkedin.com/in/mateus-pereira-971946197/)
+Foto do autor com link para alguma rede.
+<table>
+  <tr>
+    <td align="center">
+      <a href="">
+        <img src="" width="100px;" alt="Descrição da foto"/><br>
+        <sub>
+          <b>Nome do Autor</b>
+        </sub>
+      </a>
+    </td>
+  </tr>  
+</table>
+
+## Contribuição
+
+Foto dos contribuidores com algum link para algumas de suas redes.
+<table>
+  <tr>
+    <td align="center">
+      <a href="">
+        <img src="" width="100px;" alt="Descrição da foto"/><br>
+        <sub>
+          <b>Nome do Autor</b>
+        </sub>
+      </a>
+    </td>
+  </tr>  
+</table>
 
 ## Referencias
 
-Referencias que queira destacar ao desenvolver o projeto
+- Referencias que queira destacar ao desenvolver o projeto
 
 ## Licença
 
-[MIT](https://opensource.org/licenses/mit-license.php) &copy; Mateus Pereira - Brasil
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 ## Obrigado!
