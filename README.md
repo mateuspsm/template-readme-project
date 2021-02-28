@@ -79,7 +79,7 @@ Foto do autor com link para alguma rede.
   <tr>
     <td align="center">
       <a href="">
-        <img src="" width="100px;" alt="Descrição da foto"/><br>
+        <img src="" width="100px;" alt=""/><br>
         <sub>
           <b>Nome do Autor</b>
         </sub>
@@ -95,7 +95,7 @@ Foto dos contribuidores com algum link para algumas de suas redes.
   <tr>
     <td align="center">
       <a href="">
-        <img src="" width="100px;" alt="Descrição da foto"/><br>
+        <img src="" width="100px;" alt=""/><br>
         <sub>
           <b>Nome do Autor</b>
         </sub>
