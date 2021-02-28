@@ -1,42 +1,67 @@
 # Titulo do projeto
 
+Ex: Projeto Teste
+
 ## Versão do projeto
 
-Ex: versão 1.0
+Ex: Versão 1.0
+
+## Sumário
+
+- [Titulo do projeto](#titulo-do-projeto)
+  - [Versão do projeto](#versão-do-projeto)
+  - [Sumário](#sumário)
+  - [Sobre o projeto](#sobre-o-projeto)
+  - [Casos de Uso do projeto](#casos-de-uso-do-projeto)
+  - [Pré-requisitos do projeto](#pré-requisitos-do-projeto)
+  - [Ferramentas utilizadas no projeto](#ferramentas-utilizadas-no-projeto)
+  - [Como executar o projeto](#como-executar-o-projeto)
+    - [Uma vez atendidos os pré-requisito, basta executar seguintes códigos:](#uma-vez-atendidos-os-pré-requisito-basta-executar-seguintes-códigos)
+      - [Comando 1](#comando-1)
+      - [Comando 2](#comando-2)
+  - [Observações](#observações)
+      - [Mude isso:](#mude-isso)
+      - [Para isso:](#para-isso)
+  - [Autor](#autor)
+  - [Contribuição](#contribuição)
+  - [Referencias](#referencias)
+  - [Licença](#licença)
+  - [Conclusão](#conclusão)
+    - [Agradecimentos](#agradecimentos)
 
 ## Sobre o projeto
 
-Descrição sobre o que é o projeto, funções, tecnicas de programação, etc.
+Ex: Este é um projeto de sistema de login.
 
 ## Casos de Uso do projeto
 
-![use case](url da imagem)
+![imagem](url da imagem)
 
 ## Pré-requisitos do projeto
 
-O que é preciso instalar para rodar o projeto.
+Ex: O que é preciso instalar para rodar o projeto.
 
 ## Ferramentas utilizadas no projeto
 
-Ferramentas que foram usadas no projeto
+Ex: Gimp, Inkscape e Code.
 
 ## Como executar o projeto
 
-### Uma vez atendidos os pré-requisito, basta rodar os códigos:
+### Uma vez atendidos os pré-requisito, basta executar seguintes códigos:
 
-#### Exemplo 1
+#### Comando 1
 ```
 make run
 ```
 
-#### Exemplo 2
+#### Comando 2
 ```
 make clean
 ```
 
 ## Observações
 
-Alguma observação a ser feita sobre o projeto, como pro exemplo:
+Ex: Esse sistema foi desenvolvido em linux. Algumas bibliotécas podem não funcionar muito bem dependendo do seu S.O.
 
 #### Mude isso:
 ```
@@ -85,6 +110,10 @@ Foto dos contribuidores com algum link para algumas de suas redes.
 
 ## Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais informações.
 
-## Obrigado!
+## Conclusão
+
+### Agradecimentos
+
+Obrigado
