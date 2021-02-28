@@ -88,6 +88,22 @@ Foto do autor com link para alguma rede.
   </tr>  
 </table>
 
+Padrão para salvar links para utilizar com nomes curtos.
+
+[Meu linkedin][LinkedIn]
+[Meu Gmail][LinkedIn]
+[Meu Instagram][LinkedIn]
+[Meu GitHub][LinkedIn]
+[Meu Spotify][LinkedIn]
+
+Só precisa colocar o que está entre colchetes em qualquer lugar do documento.
+
+[LinkedIn]: https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/
+[Gmail]: mailto:mateuusth14@gmail.com
+[Instagram]: https://www.instagram.com/__mateus_pereira/
+[GitHub]: https://github.com/mateuspsm
+[Spotify]: https://open.spotify.com/user/21k6foq2cv27iuic5qlpwdbey
+
 ## Contribuição
 
 Foto dos contribuidores com algum link para algumas de suas redes.
