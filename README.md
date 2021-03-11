@@ -2,15 +2,11 @@
 
 Ex: Projeto Teste
 
-## Versão do projeto
-
-Ex: Versão 1.0
-
 ## Sumário
 
 - [Titulo do projeto](#titulo-do-projeto)
-  - [Versão do projeto](#versão-do-projeto)
   - [Sumário](#sumário)
+  - [Versão do projeto](#versão-do-projeto)
   - [Sobre o projeto](#sobre-o-projeto)
   - [Casos de Uso do projeto](#casos-de-uso-do-projeto)
   - [Pré-requisitos do projeto](#pré-requisitos-do-projeto)
@@ -24,10 +20,13 @@ Ex: Versão 1.0
       - [Para isso:](#para-isso)
   - [Autor](#autor)
   - [Contribuição](#contribuição)
-  - [Referencias](#referencias)
-  - [Licença](#licença)
   - [Conclusão](#conclusão)
-    - [Agradecimentos](#agradecimentos)
+  - [Licença](#licença)
+  - [Referencias](#referencias)
+
+## Versão do projeto
+
+Ex: Versão 1.0
 
 ## Sobre o projeto
 
@@ -120,16 +119,15 @@ Foto dos contribuidores com algum link para algumas de suas redes.
   </tr>  
 </table>
 
-## Referencias
+## Conclusão
 
-- Referencias que queira destacar ao desenvolver o projeto
+Agradecimentos
 
 ## Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais informações.
 
-## Conclusão
+## Referencias
 
-### Agradecimentos
+- Referencias que queira destacar ao desenvolver o projeto
 
-Obrigado
