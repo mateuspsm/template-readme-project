@@ -87,15 +87,19 @@ Foto do autor com link para alguma rede.
   </tr>  
 </table>
 
-Padrão para salvar links para utilizar com nomes curtos.
+Redes de contatos
 
-[Meu linkedin][LinkedIn]
-[Meu Gmail][LinkedIn]
-[Meu Instagram][LinkedIn]
-[Meu GitHub][LinkedIn]
-[Meu Spotify][LinkedIn]
+[Linkedin][LinkedIn]
 
-Só precisa colocar o que está entre colchetes em qualquer lugar do documento.
+[Gmail][LinkedIn]
+
+[Instagram][LinkedIn]
+
+[GitHub][LinkedIn]
+
+[Spotify][LinkedIn]
+
+Atalho reútilizaveis.
 
 [LinkedIn]: https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/
 [Gmail]: mailto:mateuusth14@gmail.com
