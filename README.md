@@ -77,10 +77,18 @@ Foto do autor com link para alguma rede.
 <table>
   <tr>
     <td align="center">
+    <img src="" width="100px;" alt="Foto do Autor"/><br>
+      <sub>
+        <b>Autor</b>
+      </sub><br>
       <a href="">
-        <img src="" width="100px;" alt=""/><br>
         <sub>
-          <b>Nome do Autor</b>
+          <b>GitHub</b>
+        </sub>
+      </a><br>
+      <a href="">
+        <sub>
+          <b>LinkedIn</b>
         </sub>
       </a>
     </td>
