@@ -89,16 +89,6 @@ Foto do autor com link para alguma rede.
 
 Redes de contatos
 
-[Linkedin][LinkedIn]
-
-[Gmail][LinkedIn]
-
-[Instagram][LinkedIn]
-
-[GitHub][LinkedIn]
-
-[Spotify][LinkedIn]
-
 Atalho reútilizaveis.
 
 [LinkedIn]: https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/
@@ -113,10 +103,18 @@ Foto dos contribuidores com algum link para algumas de suas redes.
 <table>
   <tr>
     <td align="center">
+    <img src="" width="100px;" alt="Foto do Autor"/><br>
+      <sub>
+        <b>Autor</b>
+      </sub><br>
       <a href="">
-        <img src="" width="100px;" alt=""/><br>
         <sub>
-          <b>Nome do Autor</b>
+          <b>GitHub</b>
+        </sub>
+      </a><br>
+      <a href="">
+        <sub>
+          <b>LinkedIn</b>
         </sub>
       </a>
     </td>
